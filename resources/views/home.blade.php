@@ -3,6 +3,6 @@
 @section("title", "Movies")
 
 @section("main-content")
-   <h2>card film</h2>
+   <h1>HOMEPAGE</h1>
    
 @endsection
